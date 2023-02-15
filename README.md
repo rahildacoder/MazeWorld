@@ -1,2 +1,2 @@
 # MazeWorld
-Responsive Java maze game that generates mazes and solves mazes
+Responsive Java maze game that generates and solves mazes
